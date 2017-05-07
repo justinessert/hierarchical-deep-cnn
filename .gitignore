@@ -1,3 +1,15 @@
+# OS and Editor Files
+.DS_Store
+.idea/
+
+# Configuration Files
+config/
+config.*
+
+# Data Files
+data/
+tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
